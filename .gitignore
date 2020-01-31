@@ -1,0 +1,5 @@
+#dependency modules
+client/node_modules
+
+#emacs autosave files
+*.*~

@@ -1,0 +1,12 @@
+.carousel-control-next,
+.carousel-control-prev {
+    filter: invert(100%);
+}
+.carousel-control.left .glyphicon {
+    left: 0 !important;
+    margin-left: 0;
+}
+.carousel-control.right .glyphicon {
+    right: 0 !important;
+    margin-right: 0;
+}
